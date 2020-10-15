@@ -18,7 +18,7 @@ Add it in your root build.gradle at the end of repositories:
         
 Add this line to your app's `build.gradle` inside the `dependencies` section:
 
-    implementation 'com.github.afirme-shieldgate/afirme-shieldgate-android:1.2.9'
+    implementation 'com.github.afirme-shieldgate:afirme-shieldgate-android:1.2.9'
 
 ### ProGuard
 
@@ -268,7 +268,7 @@ Add it in your root build.gradle at the end of repositories:
         
 Add this line to your app's `build.gradle` inside the `dependencies` section:
 
-    implementation 'com.github.afirme-shieldgate/afirme-shieldgate-android:1.2.9'
+    implementation 'com.github.afirme-shieldgate:afirme-shieldgate-android:1.2.9'
 
 ### ProGuard
 
