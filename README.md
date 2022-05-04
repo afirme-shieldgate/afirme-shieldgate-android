@@ -257,7 +257,7 @@ El SDK Android de pagos Afirme es una biblioteca que permite a los desarrollador
 
 ### Android Studio (o Gradle)
 
-Add it in your root build.gradle at the end of repositories:
+Agregue lo siguiente en build.gradle al final de repositories:
 
     allprojects {
             repositories {
@@ -266,7 +266,7 @@ Add it in your root build.gradle at the end of repositories:
             }
         }
         
-Add this line to your app's `build.gradle` inside the `dependencies` section:
+Agregue esta linea a sus app's `build.gradle` en la seccion  `dependencies`
 
     implementation 'com.github.afirme-shieldgate:afirme-shieldgate-android:1.2.9'
 
