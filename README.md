@@ -432,8 +432,6 @@ El cuarto argumento del addCard es un objeto de tipo Card. Un objeto Card contie
 
 El quinto argumento tokenCallBack es un callback que usted provee para manejar las respuestas recibidas de Afirme.
 
-
-The fifth argument tokenCallback is a callback you provide to handle responses from Afirme.
 Deberá enviar el token a su servidor para procesar onSuccess y notificar al usuario onError.
 
 Aquí se muestra un ejemplo de implementación de callback del token:
